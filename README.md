@@ -17,4 +17,4 @@ The best performance (score) of each algorithm with the dataset provided by Riii
 + LGBM voting with tags (1000) = **0.682**
 + XGBoost = **0.509**
 
-btw, this is the first solo competition I've participated.
+btw, this is the first *solo* competition I've ever participated.
